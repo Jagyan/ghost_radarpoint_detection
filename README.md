@@ -53,7 +53,11 @@ On Custom dataset:
 
 # Qualitative results
 
+## Static scene
+
 ![](READMEimages/Static.PNG)
+
+## Dynamic scene
 
 ![](READMEimages/Dynamic.PNG)
 
