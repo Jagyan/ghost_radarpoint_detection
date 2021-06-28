@@ -57,4 +57,4 @@ On Custom dataset:
 
 ![](READMEimages/Dynamic.PNG)
 
-Olive colored point are lidar points, blue points are correctly classied true radar points, green points are incorrectly classied true radar points, teal points are correctly classied ghost radar points and purple points are incorrectly classied ghost radar points.
+Olive colored point are lidar points, blue points are correctly classified true radar points, green points are incorrectly classified true radar points, teal points are correctly classified ghost radar points and purple points are incorrectly classified ghost radar points.
