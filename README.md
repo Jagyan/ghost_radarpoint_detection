@@ -1,5 +1,5 @@
 # PointNet.pytorch
-This repo is implementation for PointNet(https://arxiv.org/abs/1612.00593) in pytorch to detect ghost points in radar point clouds. The model is in `pointnet/model_custom.py`.
+This repo is continuation of PointNet(https://arxiv.org/abs/1612.00593) in pytorch to detect ghost points in radar point clouds. The model is in `pointnet/model_custom.py`.
 
 It is tested with pytorch-1.0.
 
