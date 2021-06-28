@@ -1,5 +1,5 @@
 # PointNet.pytorch
-This repo is implementation for PointNet(https://arxiv.org/abs/1612.00593) in pytorch to detect ghost points in radar point clouds. The model is in `pointnet/model_custom.py`.
+This repo is continuation of PointNet(https://arxiv.org/abs/1612.00593) in pytorch to detect ghost points in radar point clouds. The model is in `pointnet/model_custom.py`.
 
 It is tested with pytorch-1.0.
 
@@ -57,4 +57,6 @@ On Custom dataset:
 
 ![](READMEimages/Dynamic.PNG)
 
-Olive colored point are lidar points, blue points are correctly classied true radar points, green points are incorrectly classied true radar points, teal points are correctly classied ghost radar points and purple points are incorrectly classied ghost radar points.
+Olive colored point are lidar points, blue points are correctly classified true radar points, green points are incorrectly  classified true radar points, teal points are correctly classified ghost radar points and purple points are incorrectly classified ghost radar points.
+
+The report submitted for this project is the following file: [Project Report](Project_Report.pdf)
